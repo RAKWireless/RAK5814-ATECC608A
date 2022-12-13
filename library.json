@@ -1,0 +1,30 @@
+{
+	"name": "RAK5814-ATECC608A",
+	"version": "1.0.0",
+	"keywords": [
+		"RAKWireless",
+		"WisBlock",
+		"Encryption"
+	],
+	"description": "RAKWireless library for the encryption",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"*"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"email": "clark.li@rakwireless.com",
+			"url": "https://rakwireless.com",
+			"maintainer": true,
+			"name": "Clark Li"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RAKWireless/RAK5814-ATECC608A"
+	},
+	"homepage": "https://rakwireless.com"
+}
